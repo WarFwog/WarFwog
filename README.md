@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WarFwog
-- 👀 I’m interested in dinosaurs, science, guitar and drums and finding ways to finally feel happiness
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on idfk mate
-- 📫 How to reach me send me a message in bottle or something idk 
+- 👀 I’m interested in: dinosaurs, science, guitar and drums and finding ways to finally feel happiness
+- 🌱 I’m currently learning: programming
+- 💞️ I’m looking to collaborate on: dinosaurs
+- 📫 How to reach me: dinosaurs
 
 <!---
 WarFwog/WarFwog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
